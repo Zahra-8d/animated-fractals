@@ -1,0 +1,50 @@
+body {
+	color: #090909e6;
+	text-decoration: none;
+	text-align:center;
+}
+
+h1 {
+	text-align:center;
+	margin-top: -10px;
+	font-size:60px;
+	margin:2% 0;
+	font-weight:lighter;
+	letter-spacing:1px;
+}
+
+h3 {
+	font-size:23px;
+	font-weight:200;
+	margin-top:50px;
+}
+
+#canvas {
+	border:1px solid #0003; 
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top:1%;
+	border-radius:5%;
+	background:aliceblue;
+}
+
+#limitButton {
+	font-size:17px;
+	padding:3px 13px;
+	margin:0 25px;
+	background:aliceblue;
+	border:1px solid #0003; 
+	border-radius:10%;
+
+}
+
+#limitInput {
+	font-size:19px;
+	border:1px solid #0003; 
+	border-radius:10%;
+	background:aliceblue;
+	width:5%;
+
+}
+
